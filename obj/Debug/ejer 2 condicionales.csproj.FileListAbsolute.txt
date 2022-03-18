@@ -1,0 +1,59 @@
+C:\visual estudio\ejer 2 condicionales\bin\ejer 2 condicionales.dll.config
+C:\visual estudio\ejer 2 condicionales\bin\ejer 2 condicionales.dll
+C:\visual estudio\ejer 2 condicionales\bin\ejer 2 condicionales.pdb
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csc.exe
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csc.exe.config
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csc.rsp
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csi.exe
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csi.exe.config
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\csi.rsp
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.Managed.Core.targets
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.AppContext.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Collections.Immutable.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Console.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Globalization.Calendars.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.IO.Compression.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.IO.FileSystem.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Net.Http.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Net.Sockets.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Reflection.Metadata.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.ValueTuple.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Xml.XmlDocument.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Xml.XPath.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\vbc.exe
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\vbc.exe.config
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\vbc.rsp
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\VBCSCompiler.exe
+C:\visual estudio\ejer 2 condicionales\bin\roslyn\VBCSCompiler.exe.config
+C:\visual estudio\ejer 2 condicionales\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\visual estudio\ejer 2 condicionales\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\visual estudio\ejer 2 condicionales\obj\Debug\ejer 2 condicionales.csproj.AssemblyReference.cache
+C:\visual estudio\ejer 2 condicionales\obj\Debug\ejer 2 condicionales.csproj.CoreCompileInputs.cache
+C:\visual estudio\ejer 2 condicionales\obj\Debug\ejer 2 condicionales.csproj.CopyComplete
+C:\visual estudio\ejer 2 condicionales\obj\Debug\ejer 2 condicionales.dll
+C:\visual estudio\ejer 2 condicionales\obj\Debug\ejer 2 condicionales.pdb
